@@ -1,0 +1,6 @@
+name: BookQuestIO
+version: '${project.version}'
+main: org.passeo.bookquestio.BookQuestIO
+api-version: '1.20'
+depend:
+  - BetonQuest
